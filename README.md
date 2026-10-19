@@ -1,10 +1,32 @@
-# What is this for?
-The purpose of this repository is to demonstrate all the certifications and credibilities I've achieved from 2026 onward. This will also serve as a mini diaries and personal reflection upon each certifications (This isn't written using AI nor Grammarly, so I apologize for clumsy grammar or any misuse of it).
-# CEFR Cerfitication (2026)
-#### This certification was earned during my junior year in Bansomdejchaopraya Rajabhat University. For the context surrounding this cerfitication, I earned this certification after scoring on a CEFR exam totaling 115 out of 120, the highest score not only within my faculty and major, but also in the university (The second place being 114). To earn this certficiation, you must compete against around 3,000 students within the university; all of them a junior (including me).
-<img width="2652" height="1809" alt="20260818_210725" src="https://github.com/user-attachments/assets/06c55e4f-52ea-4de9-8465-47a6b31174ad" />
+# Certifications & Credentials
 
+A curated archive of certifications, academic honors, and international exchange credentials earned from 2026 onward.
 
-# USSH Hanoi Certification (2026)
-#### This cerfication was earned approximately 6 months after the CEFR exam was taken while I was still in Vietnam, participating in "The Language and Immersion Exchange Program 2026". This program includes those who scored the highest on CEFR exam in their respective faculty (mine was the faculty of science & technology); the program has been a gamechanger on my so called "soft skills"; not only it made me realizes my ability to communicate and make foreign friends, it also made me realize my ability to survive and live in somewhere outside of Thailand, my home country.
-<img width="2569" height="1848" alt="20260818_210830" src="https://github.com/user-attachments/assets/723a5a57-b516-483d-b30b-446f08925b21" />
+---
+
+## 1. CEFR English Proficiency Examination (2026)
+
+* **Institution:** Bansomdejchaopraya Rajabhat University
+* **Score:** 115 / 120 (Ranked #1 University-wide out of ~3,000 students)
+
+### Context & Impact
+During my junior year, I sat for the university-wide CEFR examination alongside approximately 3,000 eligible junior students. I achieved the highest overall score in the university (115/120), placing first across all faculties and academic departments. This score qualified me for the university's competitive international exchange initiative.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06c55e4f-52ea-4de9-8465-47a6b31174ad" alt="CEFR Certificate" width="650" />
+</p>
+
+---
+
+## 2. USSH Hanoi Exchange Certification (2026)
+
+* **Program:** Language and Immersion Exchange Program 2026
+* **Host Institution:** University of Social Sciences and Humanities (USSH), Hanoi, Vietnam
+* **Selection Criteria:** Top CEFR scorer representing the Faculty of Science & Technology
+
+### Context & Impact
+Selected as the sole representative for the Faculty of Science & Technology based on top CEFR performance. This immersion program developed my cross-cultural communication, cross-functional collaboration, and ability to adapt and operate independently in an international setting.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/723a5a57-b516-483d-b30b-446f08925b21" alt="USSH Hanoi Certificate" width="650" />
+</p>
